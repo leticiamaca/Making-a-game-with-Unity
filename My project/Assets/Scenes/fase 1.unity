@@ -2405,8 +2405,8 @@ GameObject:
   - component: {fileID: 1158843927}
   - component: {fileID: 1158843926}
   - component: {fileID: 1158843929}
-  - component: {fileID: 1158843930}
   - component: {fileID: 1158843931}
+  - component: {fileID: 1158843932}
   m_Layer: 0
   m_Name: Fall (32x32)_0 (1)
   m_TagString: Untagged
@@ -2654,7 +2654,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   faceDados: 6
---- !u!114 &1158843930
+--- !u!114 &1158843931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158843917}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242f4bcdd93fd5b46b4618feebfb72da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  horaInteira: 0
+  cont: 0
+  dia: 0
+  segundos: 0
+--- !u!114 &1158843932
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2666,22 +2682,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0b02dadf2ca76c45973bfe2a00f86e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeA: 2
-  timeB: 1
+  timeA: 0
+  timeB: 0
   placar: 0
---- !u!114 &1158843931
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1158843917}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 242f4bcdd93fd5b46b4618feebfb72da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  horaInteira: 0
 --- !u!1 &1454138943
 GameObject:
   m_ObjectHideFlags: 0
