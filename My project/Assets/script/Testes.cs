@@ -24,7 +24,7 @@ public class Testes : MonoBehaviour
                 print("Vilão");
                 break;
             
-default: Debug.Log("Valor não identificar");
+default: Debug.Log("Valor não identificado");
                 break;
         }
     }
