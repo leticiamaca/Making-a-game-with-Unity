@@ -123,9 +123,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 263
-        width: 189
-        height: 702
+        y: 264
+        width: 188
+        height: 700
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: houses1_pale_1
       rect:
         serializedVersion: 2
-        x: 351
-        y: 263
-        width: 590
-        height: 506
+        x: 352
+        y: 264
+        width: 588
+        height: 504
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: houses1_pale_2
       rect:
         serializedVersion: 2
-        x: 1723
-        y: 263
-        width: 197
-        height: 706
+        x: 1724
+        y: 264
+        width: 196
+        height: 704
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5d36628eff471c746986de2336b8fed4
     internalID: 0
     vertices: []
     indices: 
